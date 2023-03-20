@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817751276557",
+    "project_id": "loja-agata-dds1",
+    "storage_bucket": "loja-agata-dds1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817751276557:android:586d869edc038855e42944",
+        "android_client_info": {
+          "package_name": "br.com.dds.agata_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817751276557-pbq3i8gm269brcgo0qdq31smi8oq39ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPEsvGUPC4hc6has9p0-9JozVgfLMJ7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817751276557-pbq3i8gm269brcgo0qdq31smi8oq39ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
